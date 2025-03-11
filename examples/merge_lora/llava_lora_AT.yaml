@@ -1,0 +1,15 @@
+### Note: DO NOT use quantized model or quantization_bit when merging lora adapters
+
+### model
+model_name_or_path: /home/wfh/models/llava-1.5-7b-hf
+adapter_name_or_path: /home/wfh/models/checkpoints/new_saves/llava/DPO
+template: llava_next
+finetuning_type: lora
+trust_remote_code: true
+
+### export
+export_dir: test/llava-DPO
+export_size: 2
+export_device: cpu
+export_legacy_format: false
+

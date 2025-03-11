@@ -1,0 +1,2 @@
+{"current_steps": 1, "total_steps": 500, "loss": 0.8299, "accuracy": 0.0, "lr": 4.0000000000000003e-07, "epoch": 0.01, "percentage": 0.2, "elapsed_time": "0:03:39", "remaining_time": "1 day, 6:25:43"}
+{"current_steps": 2, "total_steps": 500, "loss": 1.2637, "accuracy": 0.0, "lr": 8.000000000000001e-07, "epoch": 0.02, "percentage": 0.4, "elapsed_time": "0:06:45", "remaining_time": "1 day, 4:02:10"}
